@@ -1,4 +1,10 @@
+<div align="center">
+
+<img src="./noelle-deltarune-noelle-playing-game.gif" width="250">
+
 # Olá, eu sou a Larissa Goes 🐬
+
+</div>
 
 **`Em formação em Cibersegurança |Redes e Segurança | Segurança da Informação`**
 
