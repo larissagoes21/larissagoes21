@@ -1,6 +1,6 @@
 # Olá, eu sou a Larissa Goes 🐬
 
-**`Em formação em Cibersegurança |`** **`Redes e Segurança |`** **`| Segurança da Informação |`** **`Redes e Segurança`**
+**`Em formação em Cibersegurança |Redes e Segurança | Segurança da Informação | Redes e Segurança`**
 
 Me chamo Larissa Goes, tenho 21 anos e sou de nova iguaçu-RJ. Concluí o ensino médio e, Atualmente, faço parte do programa Mujer Digital, onde estou desenvolvendo meus primeiros conhecimentos em Tecnologia e Cibersegurança. 
 
