@@ -21,7 +21,6 @@ Por meio dos estudos e projetos práticos, venho aprendendo sobre redes de compu
 🌤 Esse é apenas o inicio da minha trajetória na Tecnologia. 
 
  </div>
-
-também conheça meu perfil no linkendin "[Larissa Goes](https://www.linkedin.com/in/larissa-goes/)".
+ 
 
 </p>
