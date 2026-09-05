@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Larissa Goes
 
 **`Redes e Segurança`**
 
