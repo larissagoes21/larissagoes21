@@ -16,7 +16,11 @@ Me chamo Larissa Goes, tenho 21 anos e sou de nova iguaçu-RJ. Concluí o ensino
 
 Por meio dos estudos e projetos práticos, venho aprendendo sobre redes de computadores, IPv4, DHCP e Cisco Packet Tracer. Estou no início da minha jornada na área de TI e estou utilizando ferramentas novas e aprendendo conceitos novos, os quais estou me adaptando aos pouquinho, tenho levado cada conhecimento novo como um aprendizado de vida e crescimento😊. 
 
+<div align="center">
+ 
 Esse é apenas o inicio da minha trajetória na Tecnologia. 👩‍💻
+
+ </div>
 
 também conheça meu perfil no linkendin "[Larissa Goes](https://www.linkedin.com/in/larissa-goes/)".
 
